@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.facebook.com/oisouhen/">Facebook</a> •
-  <a href="https://api.whatsapp.com/send?phone=5515997672647&text=Hi%20Wulles%20👋)">WhatsApp</a> •
+  <a href="https://api.whatsapp.com/send?phone=5515997672647&text=Hi%20Wulles%20😀">WhatsApp</a> •
   <a href="https://instagram.com/oisouhen/">Instagram</a> •
   <a href="mailto:oisouhen@icloud.com">E-mail</a>  
 </p>
