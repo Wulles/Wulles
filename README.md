@@ -9,4 +9,4 @@
 
 Hello, i'm Lucas Hen and i'm known as one of the most experienced people in the field of content editing for the copy of the game Habbo(popularized as Habbo Retro), i've been in this category since 2004, and i'm willing to help this game community that I love so much!
 
-* 📫 You can also contact me on discord ___Hensa#8393___
+* 📫 You can also contact me on Discord: ___Hensa#8393___
